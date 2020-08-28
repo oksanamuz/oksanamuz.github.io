@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Single-page apps",
+    "value": "Fast and responsive! SPA applications don’t update the entire page but only required content, they significantly improve a website’s speed. Most resources are only loaded once throughout the lifespan of an application.",
+    "icon": "coding"
+  },
+  {
+    "name": "Cross-platform apps",
+    "value": "Cross-platform development provides business opportunity to cover a large range of users with some budget-friendly solutions because of its capability to cover Android as well as iOS devices simultaneously.",
+    "icon": "smartphone"
+  },
+  {
+    "name": "Progressive Web apps",
+    "value": "PWA are web applications that load like usual websites but suggest such user options as working offline, push notifications, device hardware access and even install and use it on devices similar to the native apps.",
+    "icon": "pwa"
+  },
+  {
+    "name": "SEO",
+    "value": "Search engine optimization is the process of optimizing your online content so that a search engine likes to show it as a top result for searches of a certain keyword.",
+    "icon": "trend"
+  },
+  {
+    "name": "Maintenance",
+    "value": "Development doesn't stop when the final product is delivered. Continue work to keep your website up and running so you can focus on your business goals.",
+    "icon": "maintenance"
+  }
+]

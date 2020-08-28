@@ -1,0 +1,109 @@
+{
+  "header": {
+    "linkHome": "Home",
+    "linkAbout": "About",
+    "linkServices": "Services",
+    "linkContact": "Contact"
+  },
+  "intro": {
+    "skip": "Skip intro",
+    "name": "Hello, my name is Oksana Muzychenko",
+    "position": "I'm a Software Frontend Engineer",
+    "welcome": "Welcome to my online portfolio."
+  },
+  "home": {
+    "viewButton": "View project"
+  },
+  "about": {
+    "title": "About",
+    "subtitle": "A short story, experiences & skills",
+    "imageUrl": "/assets/images/me.jpg",
+    "aboutMeTitle": "About me",
+    "aboutIntro": "My name is Oksana Muzychenko, I'm Lead Frontend Software Engineer and have 8+ years of experience in web and mobile development including 4+ years of solid background with Angular 2+; 2 years in Vue.js & React.js frameworks",
+    "aboutDescription": "Engineer with critical thinking, strong analytical skills and ability to deal with high pace and meet tight deadlines. I produce code according to the best practices, develop and support scalable project architecture, supervise team members in order to deliver a high-performance quality product.",
+    "contact": "Let's build something awesome together!",
+    "download": "Download CV",
+    "skills": {
+      "title": "My Skills"
+    },
+    "education": {
+      "titleEdu": "Education",
+      "titleExp": "Experience"
+    },
+    "projects": {
+      "clients": "Happy Clients",
+      "projects": "Projects",
+      "code": "Lines of code",
+      "hours": "Work hours"
+    }
+  },
+  "offers": {
+    "title": "Services",
+    "subtitle": "Services I'm Offering",
+    "imageUrl": "/assets/images/offers.jpg",
+    "contactTitle": "Need my help in your project?"
+  },
+  "contacts": {
+    "title": "Contact",
+    "subtitle": "Let's Get in touch",
+    "imageUrl": "/assets/images/contacts.jpg",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "success": "Thank you, your message was sent successfully! I will reply to you asap.",
+    "telTitle": "Call me",
+    "telLabel": "+38 (050) 026 35 94",
+    "telValue": "+380500263594",
+    "emailTitle": "Write me",
+    "emailValue": "oksana.muzyc@gmail.com",
+    "socialNetworksTitle": "Let's connect"
+  },
+  "testimonials": {
+    "vincent": {
+      "quote": "Oksana was our lead developer on our App Development project for 2 years. I found Oksana to be an excellent engineer that always delivered high quality code and technical outcomes. Oksana was a really good communicator and always had the best outcome for the customer at heart and happy to provide valuable insights and suggestions. Oksana always provided accurate estimates and delivered on time. <br/> <br/>I would recommend Oksana to any company looking for a really good team lead or team member and would happily work with Oksana again should the opportunity arise.",
+      "name": "Vincent McElwain",
+      "position": "CEO of Jalopy",
+      "email": "vincent.mcelwain@gmail.com"
+    }
+  },
+  "project": {
+    "timeline": "Timeline",
+    "role": "Role",
+    "technology": "Technologies Used"
+  },
+  "buttons": {
+    "contact": "Contact me",
+    "viewProject": "View project",
+    "sendMessage": "Send Message"
+  },
+  "errors": {
+    "required": "This field is required",
+    "email": "Invalid email",
+    "phone": "Invalid phone number",
+    "pattern": "Invalid field",
+    "minlength": "Too short value",
+    "maxlength": "Too long value",
+    "maxValue": "Too big value",
+    "noPasswordMatch": "Password and Confirm Password aren't equal",
+    "url": "Doesn't look like an url",
+    "workingUrl": "This url is not working",
+    "emailAlreadyUsed": "This email already exists!",
+    "connectionNotEstablished": "Connection is not established...",
+    "something": "Ooops, something went wrong...",
+    "fill": "Please fulfill all required fields."
+  },
+  "newVersion": {
+    "title": "New version of the app is available!",
+    "description": "Do you want to reload page and get the latest version?",
+    "confirm": "Yes, sure!",
+    "confirmButton": "No, thanks."
+  },
+  "addToHomeScreen": {
+    "title": "You are using Progressive Web App!",
+    "description": "Do you want to install the app to the Home screen?",
+    "confirmButton": "Yes, sure!",
+    "cancelButton": "No, thanks."
+  }
+}

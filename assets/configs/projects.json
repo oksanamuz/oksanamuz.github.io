@@ -1,0 +1,473 @@
+[
+  {
+    "id": "mrn",
+    "imageUrl": "/assets/images/slider/mrn.jpg",
+    "name": "Market Readiness Navigator",
+    "title": "<strong>Market Readiness</strong> Navigator",
+    "description": "Gamified compliance assessment tool designed to simplify the compliance management process for digital products",
+    "descriptionShort": "",
+    "role": "Frontend development team lead and Senior Frontend Developer with a central role in project management and client communication.",
+    "timeline": "April 2020 – August 2020",
+    "techStack": [
+      {
+        "name": "Angular 9",
+        "value": 100,
+        "theme": "red"
+      },
+      {
+        "name": "RxJS",
+        "value": 13,
+        "theme": "purple"
+      },
+      {
+        "name": "TypeScript",
+        "value": 52,
+        "theme": "blue"
+      },
+      {
+        "name": "HTML",
+        "value": 10.8,
+        "theme": "orange"
+      },
+      {
+        "name": "SCSS",
+        "value": 22.2,
+        "theme": "pink"
+      }
+    ],
+    "images": [
+      "/assets/images/projects/mrn/mrn-dashboard.jpg",
+      "/assets/images/projects/mrn/mrn-launch.jpg",
+      "/assets/images/projects/mrn/mrn-launch-filled.jpg",
+      "/assets/images/projects/mrn/mrn-launch-2.jpg",
+      "/assets/images/projects/mrn/mrn-universe.jpg",
+      "/assets/images/projects/mrn/mrn-universe-hover.jpg",
+      "/assets/images/projects/mrn/mtn-preassessment.jpg",
+      "/assets/images/projects/mrn/mrn-data-protection.jpg",
+      "/assets/images/projects/mrn/mrn-logbook.jpg",
+      "/assets/images/projects/mrn/mrn-info-security.jpg",
+      "/assets/images/projects/mrn/mrn-admin.jpg"
+    ]
+  },
+  {
+    "id": "25hr",
+    "imageUrl": "/assets/images/slider/25hr.jpg",
+    "name": "25HR",
+    "title": "<strong>25HR</strong>",
+    "timeline": "Since May 2019",
+    "description": "Web project management platform that offers the implementations of user stories by a world-wide network of specialists. On the one hand Product Owners can define work packages while specialist on the other hand specialists get paid for their skills and time provided to complete the tasks. During the project, the Product Owner stays in full control of progress, capacity and budget.",
+    "descriptionShort": "",
+    "role": "Frontend development team lead and Senior Frontend Developer with a central role in Project Management and client communication.",
+    "techStack": [
+      {
+        "name": "Angular 8",
+        "value": 100,
+        "theme": "red"
+      },
+      {
+        "name": "RxJS",
+        "value": 18.5,
+        "theme": "purple"
+      },
+      {
+        "name": "TypeScript",
+        "value": 49,
+        "theme": "blue"
+      },
+      {
+        "name": "HTML",
+        "value": 15.5,
+        "theme": "orange"
+      },
+      {
+        "name": "SCSS",
+        "value": 17,
+        "theme": "pink"
+      }
+    ],
+    "images": [
+      "/assets/images/projects/25hr/25hr-login.jpg",
+      "/assets/images/projects/25hr/25hr-terms.jpg",
+      "/assets/images/projects/25hr/25hr-feedback.jpg",
+      "/assets/images/projects/25hr/25hr-kanban-empty.jpg",
+      "/assets/images/projects/25hr/25hr-kanban.jpg",
+      "/assets/images/projects/25hr/25hr-us.jpg",
+      "/assets/images/projects/25hr/25hr-upload.jpg"
+    ]
+  },
+  {
+    "id": "booxli",
+    "imageUrl": "/assets/images/slider/booxli.jpg",
+    "name": "Booxli",
+    "title": "<strong>Booxli</strong>",
+    "description": "e-book platform that offers young parents and families with children extensive functions to be able to read favourite books together via video calls and screensharing",
+    "descriptionShort": "",
+    "role": "Frontend development team lead and Senior Frontend Developer with a central role in project management and client communication.",
+    "timeline": "Since June 2019",
+    "techStack": [
+      {
+        "name": "Angular 7-10 (Including SSR)",
+        "value": 75,
+        "theme": "red"
+      },
+      {
+        "name": "React.js",
+        "value": 25,
+        "theme": "sky-blue"
+      },
+      {
+        "name": "RxJS",
+        "value": 5.7,
+        "theme": "purple"
+      },
+      {
+        "name": "Node.js",
+        "value": 22,
+        "theme": "dark-green"
+      },
+      {
+        "name": "Socket.io",
+        "value": 12,
+        "theme": "burgundy"
+      },
+      {
+        "name": "TypeScript",
+        "value": 57.3,
+        "theme": "blue"
+      },
+      {
+        "name": "HTML",
+        "value": 10,
+        "theme": "orange"
+      },
+      {
+        "name": "SCSS",
+        "value": 17,
+        "theme": "pink"
+      }
+    ],
+    "images": [
+      "/assets/images/projects/booxli/booxli-shop.jpg",
+      "/assets/images/projects/booxli/booxli-library.jpg",
+      "/assets/images/projects/booxli/booxli-orders.jpg",
+      "/assets/images/projects/booxli/booxli-profile.jpg",
+      "/assets/images/projects/booxli/booxli-order.jpg",
+      "/assets/images/projects/booxli/booxli-admin.jpg",
+      "/assets/images/projects/booxli/booxli-admin-product.jpg",
+      "/assets/images/projects/booxli/booxli-admin-product-gallery.jpg",
+      "/assets/images/projects/booxli/booxli-admin-users.jpg",
+      "/assets/images/projects/booxli/booxli-strapi.jpg"
+    ]
+  },
+  {
+    "id": "jalopy",
+    "imageUrl": "/assets/images/slider/jalopy.jpg",
+    "name": "Jalopy",
+    "title": "<strong>Jalopy</strong>",
+    "description": "Location-based online platform for car repair shop owners and car owners to schedule repair or car maintenance appointments. PWA with Java backend, service workers and cloud messaging, push notifications and real-time chats.",
+    "descriptionShort": "",
+    "timeline": "March 2018 – November 2019",
+    "role": "Senior Frontend Developer",
+    "techStack": [
+      {
+        "name": "Angular 5-8",
+        "value": 100,
+        "theme": "red"
+      },
+      {
+        "name": "RxJS",
+        "theme": "purple",
+        "value": 11
+      },
+      {
+        "name": "Twilio",
+        "value": 4.5,
+        "theme": "burgundy"
+      },
+      {
+        "name": "TypeScript",
+        "value": 53,
+        "theme": "blue"
+      },
+      {
+        "name": "HTML",
+        "value": 9.2,
+        "theme": "orange"
+      },
+      {
+        "name": "SCSS",
+        "value": 10.3,
+        "theme": "pink"
+      },
+      {
+        "name": "Firebase Cloud Messaging & Functions",
+        "value": 12,
+        "theme": "yellow"
+      }
+    ],
+    "images": [
+      "/assets/images/projects/jalopy/jalopy-1.jpg",
+      "/assets/images/projects/jalopy/jalopy-2.jpg",
+      "/assets/images/projects/jalopy/jalopy-3.jpg",
+      "/assets/images/projects/jalopy/jalopy-4.jpg"
+    ]
+  },
+  {
+    "id": "plain-id",
+    "imageUrl": "/assets/images/slider/plain-id.jpg",
+    "name": "PlainId",
+    "title": "<strong>Plain</strong>ID",
+    "description": "Custom WordPress theme. Fully responsive website with SVG animations",
+    "descriptionShort": "",
+    "timeline": "2016",
+    "role": "Frontend Developer",
+    "techStack": [
+      {
+        "name": "jQuery",
+        "value": 22.5,
+        "theme": "blue"
+      },
+      {
+        "name": "Snap.svg",
+        "value": 8.7,
+        "theme": "green"
+      },
+      {
+        "name": "JavaScript",
+        "value": 11.1,
+        "theme": "yellow"
+      },
+      {
+        "name": "HTML",
+        "value": 30.2,
+        "theme": "orange"
+      },
+      {
+        "name": "SCSS",
+        "value": 27.5,
+        "theme": "pink"
+      }
+    ],
+    "images": [
+      "/assets/images/projects/plain-id/plain-id-1.jpg",
+      "/assets/images/projects/plain-id/plain-id-2.jpg",
+      "/assets/images/projects/plain-id/plain-id-3.jpg",
+      "/assets/images/projects/plain-id/plain-id-4.jpg",
+      "/assets/images/projects/plain-id/plain-id-5.jpg"
+    ]
+  },
+  {
+    "id": "oshi",
+    "imageUrl": "/assets/images/slider/oshi.jpg",
+    "name": "Oshi",
+    "title": "<strong>Oshi</strong>",
+    "description": "Custom WordPress theme",
+    "descriptionShort": "",
+    "timeline": "2016",
+    "role": "Frontend Developer",
+    "techStack": [
+      {
+        "name": "jQuery",
+        "value": 37.3,
+        "theme": "blue"
+      },
+      {
+        "name": "JavaScript",
+        "value": 7,
+        "theme": "yellow"
+      },
+      {
+        "name": "HTML",
+        "value": 20,
+        "theme": "orange"
+      },
+      {
+        "name": "SCSS",
+        "value": 25.7,
+        "theme": "pink"
+      }
+    ],
+    "images": [
+      "/assets/images/projects/oshi/oshi.jpg"
+    ]
+  },
+  {
+    "id": "agoran-delarsis",
+    "imageUrl": "/assets/images/slider/agoran.jpg",
+    "name": "Agoran Delarsis",
+    "title": "<strong>Agoran</strong> Delarsis",
+    "description": "Custom WordPress theme",
+    "descriptionShort": "",
+    "timeline": "2016",
+    "role": "Frontend Developer",
+    "techStack": [
+      {
+        "name": "jQuery",
+        "value": 37.3,
+        "theme": "blue"
+      },
+      {
+        "name": "JavaScript",
+        "value": 7,
+        "theme": "yellow"
+      },
+      {
+        "name": "HTML",
+        "value": 20,
+        "theme": "orange"
+      },
+      {
+        "name": "SCSS",
+        "value": 25.7,
+        "theme": "pink"
+      }
+    ],
+    "images": [
+      "/assets/images/projects/agoran/agoran-1.jpg",
+      "/assets/images/projects/agoran/agoran-2.jpg",
+      "/assets/images/projects/agoran/agoran-3.jpg",
+      "/assets/images/projects/agoran/agoran-4.jpg",
+      "/assets/images/projects/agoran/agoran-5.jpg"
+    ]
+  },
+  {
+    "id": "hanna-house",
+    "imageUrl": "/assets/images/slider/hanna-house.jpg",
+    "name": "Hanna House",
+    "title": "<strong>Hanna</strong> House",
+    "description": "Custom WordPress theme",
+    "descriptionShort": "",
+    "timeline": "2015",
+    "role": "Frontend Developer",
+    "techStack": [
+      {
+        "name": "jQuery",
+        "value": 37.3,
+        "theme": "blue"
+      },
+      {
+        "name": "JavaScript",
+        "value": 7,
+        "theme": "yellow"
+      },
+      {
+        "name": "HTML",
+        "value": 20,
+        "theme": "orange"
+      },
+      {
+        "name": "SCSS",
+        "value": 25.7,
+        "theme": "pink"
+      }
+    ],
+    "images": [
+      "/assets/images/projects/hanna/hanna-1.jpg",
+      "/assets/images/projects/hanna/hanna-2.jpg",
+      "/assets/images/projects/hanna/hanna-3.jpg",
+      "/assets/images/projects/hanna/hanna-4.jpg",
+      "/assets/images/projects/hanna/hanna-5.jpg",
+      "/assets/images/projects/hanna/hanna-6.jpg",
+      "/assets/images/projects/hanna/hanna-7.jpg",
+      "/assets/images/projects/hanna/hanna-8.jpg"
+    ]
+  },
+  {
+    "id": "balsam",
+    "imageUrl": "/assets/images/slider/balsam.jpg",
+    "name": "Balsam",
+    "title": "<strong>Balsam</strong>",
+    "description": "A tool to manage cross-border travels of international projects. Project managers and team members provide all required information while a central team ensures tax and risk compliance.",
+    "descriptionShort": "",
+    "timeline": "February 2020 – June 2020",
+    "role": "Senior developer and lead of the frontend team.",
+    "techStack": [
+      {
+        "name": "Angular 9",
+        "theme": "red",
+        "value": 100
+      },
+      {
+        "name": "Angular Material 9",
+        "value": 15
+      },
+      {
+        "name": "TypeScript",
+        "value": 52.7,
+        "theme": "blue"
+      },
+      {
+        "name": "RxJS",
+        "value": 12.3,
+        "theme": "purple"
+      },
+      {
+        "name": "HTML",
+        "value": 8,
+        "theme": "orange"
+      },
+      {
+        "name": "SCSS",
+        "value": 12,
+        "theme": "pink"
+      }
+    ],
+    "images": [
+      "/assets/images/projects/balsam/balsam-1.jpg",
+      "/assets/images/projects/balsam/balsam-2.jpg",
+      "/assets/images/projects/balsam/balsam-3.jpg",
+      "/assets/images/projects/balsam/balsam-4.jpg",
+      "/assets/images/projects/balsam/balsam-5.jpg",
+      "/assets/images/projects/balsam/balsam-6.jpg",
+      "/assets/images/projects/balsam/balsam-7.jpg",
+      "/assets/images/projects/balsam/balsam-8.jpg"
+    ]
+  },
+  {
+    "id": "sfr",
+    "imageUrl": "/assets/images/slider/sfr.jpg",
+    "name": "Balsam",
+    "title": "<strong>Special</strong> Funds Reporting",
+    "description": "",
+    "descriptionShort": "",
+    "timeline": "October 2019 – February 2020",
+    "role": "Senior Frontend developer",
+    "techStack": [
+      {
+        "name": "Angular 9",
+        "value": 100,
+        "theme": "red"
+      },
+      {
+        "name": "Angular Material 9",
+        "value": 15,
+        "theme": "burgundy"
+      },
+      {
+        "name": "TypeScript",
+        "value": 52.7,
+        "theme": "blue"
+      },
+      {
+        "name": "RxJS",
+        "theme": "purple",
+        "value": 12.3
+      },
+      {
+        "name": "HTML",
+        "value": 8,
+        "theme": "orange"
+      },
+      {
+        "name": "SCSS",
+        "value": 12,
+        "theme": "pink"
+      }
+    ],
+    "images": [
+      "/assets/images/projects/sfr/sfr-1.jpg",
+      "/assets/images/projects/sfr/sfr-2.jpg",
+      "/assets/images/projects/sfr/sfr-3.jpg"
+    ]
+  }
+]
