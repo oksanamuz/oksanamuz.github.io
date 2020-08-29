@@ -17,10 +17,20 @@
   <meta name="theme-color" content="#212121">
   <link rel="manifest" href="manifest.webmanifest">
   <meta name="Description" content="Oksana Muzychenko Portfolio">
+  <meta http-equiv="refresh" content="0; URL=http://oksanamuz.github.io/">
 <link rel="stylesheet" href="styles.b2e2ecadab216d5a3c59.css"></head>
 <body>
   <app-root></app-root>
   <noscript>Please enable JavaScript to continue using this application.</noscript>
+  <script>
+    (function(){
+      const redirect = sessionStorage.redirect;
+      delete sessionStorage.redirect;
+      if (redirect && redirect !== location.href) {
+        history.replaceState(null, null, redirect);
+      }
+    })();
+  </script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2.3.2/dist/email.min.js"></script>
   <script type="text/javascript">
     (function(){
