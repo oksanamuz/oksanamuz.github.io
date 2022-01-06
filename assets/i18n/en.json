@@ -17,9 +17,10 @@
   "about": {
     "title": "About",
     "subtitle": "A short story, experiences & skills",
-    "imageUrl": "/assets/images/me.jpg",
+    "imageUrl": "/assets/images/bg-grey.jpeg",
+    "fixedImageUrl": "/assets/images/oksana.png",
     "aboutMeTitle": "About me",
-    "aboutIntro": "My name is Oksana Muzychenko, I'm Lead Frontend Software Engineer and have 8+ years of experience in web and mobile development including 4+ years of solid background with Angular 2+; 2 years in Vue.js & React.js frameworks",
+    "aboutIntro": "My name is Oksana Muzychenko, I'm Lead Frontend Software Engineer and have 8+ years of experience in web and mobile development including 5+ years of solid background with Angular 2+; 3+ years React.js frameworks",
     "aboutDescription": "Engineer with critical thinking, strong analytical skills and ability to deal with high pace and meet tight deadlines. I produce code according to the best practices, develop and support scalable project architecture, supervise team members in order to deliver a high-performance quality product.",
     "contact": "Let's build something awesome together!",
     "download": "Download CV",
@@ -54,10 +55,10 @@
     "message": "Message",
     "success": "Thank you, your message was sent successfully! I will reply to you asap.",
     "telTitle": "Call me",
-    "telLabel": "+38 (050) 026 35 94",
-    "telValue": "+380500263594",
+    "telLabel": "+49 151 10328687",
+    "telValue": "+4915110328687",
     "emailTitle": "Write me",
-    "emailValue": "oksana.muzyc@gmail.com",
+    "emailValue": "oksana@58agents.com",
     "socialNetworksTitle": "Let's connect"
   },
   "testimonials": {
